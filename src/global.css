@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,600;0,700;0,800;1,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sometype+Mono:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-maven-pro: "Maven Pro";
+  --font-sometype-mono: "Sometype Mono";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-khaki: #fcff79;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-base: 16px;
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+  --br-base: 16px;
+}

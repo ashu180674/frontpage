@@ -1,0 +1,485 @@
+.email-address {
+    position: relative;
+    line-height: 20px;
+  }
+  .email-address-wrapper {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 335.95px);
+    border-radius: var(--br-base) 0 0 var(--br-base);
+    background-color: var(--color-white);
+    border: 2px solid var(--color-black);
+    box-sizing: border-box;
+    width: 442.9px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-5xl) 250px var(--padding-5xl) var(--padding-5xl);
+  }
+  .get-early-access {
+    width: 165px;
+    position: relative;
+    line-height: 20px;
+    font-weight: 800;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .get-early-access-wrapper {
+    position: absolute;
+    top: 0;
+    left: 442.9px;
+    border-radius: 0 var(--br-base) var(--br-base) 0;
+    background-color: #f54e44;
+    border: 2px solid var(--color-black);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xl) 32px;
+    text-align: center;
+    color: var(--color-white);
+  }
+  .frame-parent {
+    position: absolute;
+    top: 600px;
+    left: calc(50% - 343px);
+    box-shadow: 8px 12px 0#000;
+    width: 671.9px;
+    height: 68px;
+  }
+  .image-205-icon {
+    position: absolute;
+    top: 24px;
+    left: 56px;
+    width: 120px;
+    height: 124.1px;
+    object-fit: cover;
+  }
+  .list-icon {
+    position: absolute;
+    top: 40px;
+    left: 1336px;
+    width: 48px;
+    height: 48px;
+    overflow: hidden;
+  }
+  .hey-fashion-fam,
+  .p {
+    margin-block-start: 0;
+    margin-block-end: 20px;
+  }
+  .p {
+    font-size: var(--font-size-13xl);
+  }
+  .is-old-always {
+    font-weight: 600;
+  }
+  .new-is-better-faster-more {
+    margin: 0;
+  }
+  .hey-fashion-fam-container {
+    position: absolute;
+    top: 361px;
+    left: calc(50% - 294px);
+    line-height: 20px;
+    text-align: center;
+    font-size: 40px;
+  }
+  .image-206-icon {
+    position: absolute;
+    top: 68px;
+    left: calc(50% - 450px);
+    width: 900px;
+    height: 268.7px;
+    object-fit: cover;
+  }
+  .desktop-60 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    width: 1440px;
+    height: 719px;
+    overflow: hidden;
+    text-align: left;
+  }
+  .desktop-72-child {
+    position: absolute;
+    top: 43px;
+    left: 159px;
+    width: 1127px;
+    height: 604px;
+  }
+  .whatsapp-image-2023-09-16-at-6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 816px;
+    mix-blend-mode: darken;
+  }
+  .our-fashion-universe {
+    position: absolute;
+    top: 236px;
+    left: calc(50% - 557px);
+    font-weight: 600;
+    display: inline-block;
+    width: 1114px;
+  }
+  .desktop-72-inner,
+  .desktop-72-item {
+    position: absolute;
+    top: 416.1px;
+    left: 254.9px;
+    background-color: var(--color-khaki);
+    width: 941px;
+    height: 44px;
+    transform: rotate(-0.4deg);
+    transform-origin: 0 0;
+  }
+  .desktop-72-inner {
+    top: 452.2px;
+    left: 257.4px;
+    width: 155.1px;
+    transform: rotate(3.5deg);
+  }
+  .lets-unite-to-container {
+    position: absolute;
+    top: 429px;
+    left: calc(50% - 470px);
+    line-height: 20px;
+    font-weight: 600;
+  }
+  .line-div {
+    position: absolute;
+    top: 121px;
+    left: 161px;
+    border-top: 4px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1127px;
+    height: 4px;
+  }
+  .desktop-72-child1,
+  .desktop-72-child2,
+  .ellipse-div {
+    position: absolute;
+    top: 71px;
+    left: 199px;
+    border-radius: 50%;
+    background-color: red;
+    width: 24px;
+    height: 24px;
+  }
+  .desktop-72-child1,
+  .desktop-72-child2 {
+    left: 235px;
+    background-color: #ffa800;
+  }
+  .desktop-72-child2 {
+    left: 271px;
+    background-color: #00ff57;
+  }
+  .desktop-72 {
+    position: absolute;
+    top: 765px;
+    left: 1px;
+    background-color: var(--color-white);
+    width: 1440px;
+    height: 725px;
+    overflow: hidden;
+    font-size: var(--font-size-13xl);
+  }
+  .desktop-70-child {
+    position: absolute;
+    top: 1512px;
+    left: -134px;
+    width: 1614.5px;
+    height: 127.8px;
+    object-fit: contain;
+  }
+  .who-are-we {
+    position: relative;
+  }
+  .who-are-we-building-for-wrapper {
+    position: absolute;
+    top: 83px;
+    left: 101px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base);
+    font-size: 50px;
+    font-family: var(--font-inter);
+  }
+  .businesses {
+    position: absolute;
+    top: 16px;
+    left: 27px;
+  }
+  .businesses-wrapper,
+  .individuals-wrapper {
+    position: absolute;
+    top: 218px;
+    border-radius: var(--br-base);
+    background-color: var(--color-white);
+    font-size: var(--font-size-13xl);
+    font-family: var(--font-sometype-mono);
+  }
+  .businesses-wrapper {
+    left: 145px;
+    width: 218px;
+    height: 68px;
+  }
+  .individuals-wrapper {
+    left: 739px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base);
+  }
+  .desktop-73-child,
+  .desktop-73-item {
+    position: absolute;
+    top: 314px;
+    left: 297.6px;
+    border-radius: var(--br-xs);
+    width: 102.3px;
+    height: 46.2px;
+    object-fit: contain;
+  }
+  .desktop-73-item {
+    top: 367.2px;
+    left: 948px;
+    width: 282.4px;
+    height: 51.2px;
+  }
+  .desktop-73-child1,
+  .desktop-73-child2,
+  .desktop-73-inner,
+  .frame-icon {
+    position: absolute;
+    top: 311.5px;
+    left: 1079.8px;
+    border-radius: var(--br-xs);
+    width: 113.7px;
+    height: 45px;
+    object-fit: contain;
+  }
+  .desktop-73-child1,
+  .desktop-73-child2,
+  .frame-icon {
+    top: 368.2px;
+    left: 839px;
+    width: 100.6px;
+    height: 41.5px;
+  }
+  .desktop-73-child1,
+  .desktop-73-child2 {
+    top: 312.2px;
+    left: 850px;
+    width: 221.3px;
+    height: 47.7px;
+  }
+  .desktop-73-child2 {
+    top: 640.2px;
+    left: 951px;
+    width: 100.6px;
+    height: 41.5px;
+  }
+  .communication-icon {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    object-fit: cover;
+  }
+  .communication-designer {
+    position: relative;
+    letter-spacing: -1px;
+    line-height: 20px;
+    font-weight: 500;
+  }
+  .communication-parent {
+    top: 429.2px;
+    left: 778px;
+    box-shadow: -1px 0 4px rgba(0, 0, 0, 0.15), 0 1px 4px rgba(0, 0, 0, 0.15);
+    background-color: var(--color-white);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+    gap: var(--gap-5xs);
+  }
+  .claw-machine-parent,
+  .communication-parent,
+  .desktop-73-child3 {
+    position: absolute;
+    border-radius: var(--br-xs);
+  }
+  .desktop-73-child3 {
+    top: 429.2px;
+    left: 1047px;
+    width: 221.1px;
+    height: 40.8px;
+    object-fit: contain;
+  }
+  .claw-machine-parent {
+    top: 478.2px;
+    left: 910px;
+    box-shadow: -1px 0 4px rgba(0, 0, 0, 0.15), 0 1px 4px rgba(0, 0, 0, 0.15);
+    background-color: var(--color-white);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+    gap: var(--gap-5xs);
+  }
+  .desktop-73-child4,
+  .desktop-73-child5,
+  .desktop-73-child6,
+  .desktop-73-child7 {
+    position: absolute;
+    top: 587.2px;
+    left: 898px;
+    border-radius: var(--br-xs);
+    width: 233.5px;
+    height: 42.7px;
+    object-fit: contain;
+  }
+  .desktop-73-child5,
+  .desktop-73-child6,
+  .desktop-73-child7 {
+    top: 532.2px;
+    left: 973px;
+    width: 277px;
+    height: 47.6px;
+  }
+  .desktop-73-child6,
+  .desktop-73-child7 {
+    top: 531.2px;
+    left: 859px;
+    width: 105.6px;
+    height: 47.4px;
+  }
+  .desktop-73-child7 {
+    top: 313px;
+    left: 408.6px;
+    width: 170.8px;
+    height: 48.4px;
+  }
+  .crowd-skin-type-3-parent {
+    position: absolute;
+    top: 618px;
+    left: 379.6px;
+    box-shadow: 2px 4px 0#000, -1px 0 4px rgba(0, 0, 0, 0.15),
+      0 1px 4px rgba(0, 0, 0, 0.15);
+    border-radius: var(--br-xs);
+    background-color: #70bfff;
+    border: 1px solid var(--color-black);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+    gap: var(--gap-5xs);
+  }
+  .desktop-73-child10,
+  .desktop-73-child8,
+  .desktop-73-child9 {
+    position: absolute;
+    top: 377px;
+    left: 210.6px;
+    border-radius: var(--br-xs);
+    width: 198.9px;
+    height: 44.9px;
+    object-fit: contain;
+  }
+  .desktop-73-child10,
+  .desktop-73-child9 {
+    top: 376px;
+    left: 417.6px;
+    width: 249.8px;
+    height: 45.5px;
+  }
+  .desktop-73-child10 {
+    top: 435.4px;
+    left: 212px;
+    width: 260.1px;
+    height: 48.2px;
+  }
+  .desktop-73-child11,
+  .desktop-73-child12,
+  .desktop-73-child13,
+  .desktop-73-child14 {
+    position: absolute;
+    top: 496px;
+    left: 211.6px;
+    border-radius: var(--br-xs);
+    width: 237.8px;
+    height: 45px;
+    object-fit: contain;
+  }
+  .desktop-73-child12,
+  .desktop-73-child13,
+  .desktop-73-child14 {
+    top: 493.8px;
+    left: 458.3px;
+    width: 246.8px;
+    height: 42.6px;
+  }
+  .desktop-73-child13,
+  .desktop-73-child14 {
+    top: 435.4px;
+    left: 480.3px;
+    width: 107px;
+    height: 42.8px;
+  }
+  .desktop-73-child14 {
+    top: 550.9px;
+    left: 434.6px;
+    width: 178.9px;
+    height: 49.8px;
+  }
+  .long-formal-dress-parent {
+    position: absolute;
+    top: 559px;
+    left: 171.6px;
+    box-shadow: 2px 4px 0#000, -1px 0 4px rgba(0, 0, 0, 0.15),
+      0 1px 4px rgba(0, 0, 0, 0.15);
+    border-radius: var(--br-xs);
+    background-color: #707cc0;
+    border: 1px solid var(--color-black);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-5xs);
+    gap: var(--gap-5xs);
+  }
+  .desktop-70,
+  .desktop-73 {
+    background-color: var(--color-white);
+  }
+  .desktop-73 {
+    position: absolute;
+    top: 1635px;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 765px;
+    overflow: hidden;
+    font-family: var(--font-maven-pro);
+  }
+  .desktop-70 {
+    width: 100%;
+    position: relative;
+    height: 12247px;
+    text-align: center;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  
